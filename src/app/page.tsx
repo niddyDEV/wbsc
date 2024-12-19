@@ -56,7 +56,7 @@ export default function Homepage() {
 
         {/* Quote Section */}
         <section className="container mx-auto w-3/4 px-4 py-14 text-center border-t border-b border-white my-20">
-          <p className="text-xl italic">"One of the best business school that matches our reality."</p>
+          <p className="text-xl italic">One of the best business school that matches our reality.</p>
           <p className="mt-4">New York Times</p>
         </section>
 
@@ -65,7 +65,7 @@ export default function Homepage() {
           <h2 className="text-3xl font-bold mb-8 text-center py-25">ABOUT US</h2>
           <div className="max-w-6xl text-2xl mx-auto w-3/4 space-y-6 text-gray-300">
             <p>
-              Elite school "WISWIR" provides small-term and long-term courses in real work production 2.0 starting with smart/contract engineer or web 2.0 developer and ending with a management of blockchain projects and products.
+              Elite school WISWIR provides small-term and long-term courses in real work production 2.0 starting with smart/contract engineer or web 2.0 developer and ending with a management of blockchain projects and products.
             </p>
             <p>
               WISWIR suggests you, your worker or team to upgrade their experience with new cases, extraordinary problems and working with top-companies.
